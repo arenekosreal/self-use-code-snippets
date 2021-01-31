@@ -1,3 +1,5 @@
+# Come from this and I modified to make it work on my system:
+# https://stackoverflow.com/a/5839291/14209295
 import pkg_resources
 from subprocess import call
 packages = list()
